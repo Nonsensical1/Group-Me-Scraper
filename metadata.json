@@ -1,0 +1,5 @@
+{
+  "name": "GroupMe AI Event Extractor",
+  "description": "An AI-powered tool to analyze GroupMe posts, identify event announcements, and generate a downloadable .ics calendar file.",
+  "requestFramePermissions": []
+}
